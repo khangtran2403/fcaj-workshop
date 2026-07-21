@@ -10,7 +10,7 @@ pre: " <b> 5.6.2 </b> "
 
 1. Go to **Step Functions** and create a new State Machine with the following workflow:
 
-![main](../images/5-Workshop/5.6-BDA-Stepfunctions/mainpage.png)
+![main](fcaj-workshop/images/5-Workshop/5.6-BDA-Stepfunctions/mainpage.png)
 
 + **Task 1 (Call BDA):** Invoke the `bedrock-data-automation:InvokeDataAutomationAsync` API, passing the URI of the PDF file uploaded to S3 (from the input event) and the Blueprint ID created in **Phase 3**. Configure the output to be written to the **workshop-invoice-output** bucket.
 + **Task 2 (Wait/Check Status):** Repeatedly check whether BDA has finished processing, since this is an asynchronous operation.
