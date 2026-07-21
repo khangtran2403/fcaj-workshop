@@ -1,6 +1,6 @@
 ---
 title : "Xây dựng workflow"
-date : 2026-07-15
+date : 2026-07-16
 weight : 6
 chapter : false
 pre : " <b> 5.6.2 </b> "
@@ -8,7 +8,7 @@ pre : " <b> 5.6.2 </b> "
 
 #### Xây dựng State Machine (Step Functions)
 1. Vào **Step Functions**, tạo một State Machine mới với luồng đi như sau:
-![main](images/5-Workshop/5.6-BDA-Stepfunctions/mainpage.png)
+![main](../images/5-Workshop/5.6-BDA-Stepfunctions/mainpage.png)
 
 + Task 1 (Call BDA): Gọi API bedrock-data-automation:InvokeDataAutomationAsync truyền vào URI của file PDF vừa lên S3 (từ Event đầu vào) và ID của Blueprint đã tạo ở Giai đoạn 3. Cấu hình output ghi ra bucket **workshop-invoice-output**.
 + Task 2 (Wait/Check Status): Loop kiểm tra xem BDA đã xử lý xong chưa (vì đây là hàm async).

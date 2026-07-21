@@ -1,6 +1,6 @@
 ---
 title : "Tạo Blueprint trong Bedrock Data Automation"
-date : 2026-07-15
+date : 2026-07-16
 weight : 6
 chapter : false
 pre : " <b> 5.6.1 </b> "

@@ -1,6 +1,6 @@
 ---
 title : "Configure CloudFront and Set Up AWS WAF"
-date : 2026-07-15
+date : 2026-07-17
 weight : 5
 chapter : false
 pre : " <b> 5.7.1 </b> "

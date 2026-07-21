@@ -1,6 +1,6 @@
 ---
 title : "Build the Workflow"
-date : 2026-07-15
+date : 2026-07-16
 weight : 5
 chapter : false
 pre : " <b> 5.6. </b> "

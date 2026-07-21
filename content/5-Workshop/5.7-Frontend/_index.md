@@ -1,6 +1,6 @@
 ---
 title : "Frontend Integration & Security"
-date : 2026-07-15
+date : 2026-07-17
 weight : 5
 chapter : false
 pre : " <b> 5.7 </b> "

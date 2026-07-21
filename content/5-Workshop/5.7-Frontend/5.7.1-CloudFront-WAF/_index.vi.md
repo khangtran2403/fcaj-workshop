@@ -1,6 +1,6 @@
 ---
 title : "Thiết lập CloudFront và cài đặt WAF"
-date : 2026-07-15
+date : 2026-07-17
 weight : 5
 chapter : false
 pre : " <b> 5.7.1 </b> "
@@ -9,7 +9,7 @@ pre : " <b> 5.7.1 </b> "
 1. Truy cập [CloudFront console](https://us-east-1.console.aws.amazon.com/cloudfront/v4/home?region=ap-southeast-1)
 
 2. Trong console,chọn **Create distribution**
-![console](/images/5-Workshop/5.7-Frontend/console.png)
+![console](../images/5-Workshop/5.7-Frontend/console.png)
 + Mục Choose a plan chọn **Free**
 ![free](/images/5-Workshop/5.7-Frontend/free_plan.png)
 + Mục Get Started, đặt tên cho Distribution : **MyWorkshop**
