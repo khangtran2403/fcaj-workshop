@@ -18,4 +18,4 @@ In this workshop, you will build a complete serverless architecture on AWS.
 Interaction Layer (Frontend & API): Consists of a React application hosted on S3 and protected by CloudFront, communicating with the backend via Amazon API Gateway.
 
 Event-driven Processing Layer: Simulates the automated invoice processing workflow. When a PDF file is uploaded to the S3 Input Bucket via a Presigned URL, it automatically triggers an AWS Step Functions workflow. This state machine acts as the orchestrator, invoking Amazon Bedrock to extract data, and then using AWS Lambda to validate the confidence score. High-confidence data is stored directly in DynamoDB, while low-confidence extractions are routed to an Amazon SQS queue for human review.
-![overview](/images/5-Workshop/5.1-Workshop-overview/diagram1.png)
+![overview](images/architecture.png)

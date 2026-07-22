@@ -3,7 +3,7 @@ title : "Lớp Logic Xử lý"
 date : 2026-07-15
 weight : 5
 chapter : false
-pre : " <b> 5.5 </b> "
+pre : " <b> 5.5. </b> "
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Blog 1"
-date: 2026-06-30
+date: 2026-07-16
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
@@ -81,5 +81,4 @@ Bài viết gốc : https://aws.amazon.com/blogs/architecture/preventing-data-ex
 
 Link : https://www.facebook.com/groups/awsstudygroupfcj/permalink/2200376417393985
 
-![endpoint](/images/3-Blog/3.Blog1.png)
-
+![endpoint](images/3.Blog1.png)

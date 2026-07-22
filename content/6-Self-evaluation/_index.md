@@ -8,8 +8,8 @@ pre: " <b> 6. </b> "
 
 
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+During my internship at **AWS Vietnam** from **05/05** to **30/07**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
+I participated in **Invoice Digitization System on AWS project**, through which I improved my skills in **programming,system design,analysis, reporting, communication, etc**.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
 
@@ -32,6 +32,5 @@ To objectively reflect on my internship period, I would like to evaluate myself 
 
 ### Needs Improvement
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
 * Improve problem-solving thinking  
 * Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively

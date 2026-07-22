@@ -77,6 +77,6 @@ pre: " <b> 4.1. </b> "
 
 #### Một số hình ảnh tại sự kiện
 
-![endpoint](/images/4-EventsParticipated/event1.1.png)
-![endpoint](/images/4-EventsParticipated/event1.2.png)
-![endpoint](/images/4-EventsParticipated/event1.3.png)
+![endpoint](images/event1.1.jpg)
+![endpoint](images/event1.2.jpg)
+![endpoint](images/event1.3.jpg)

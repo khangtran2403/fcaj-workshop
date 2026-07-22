@@ -13,4 +13,3 @@ This blog explores how a fictional fintech company, iBusiness, uses Amazon SageM
 ###  [Blog 2 - Building Flexible Data Processing Workflows with Specification-Driven Composition on AWS](3.2-Blog2/)
 This blog introduces Specification-Driven Composition model, an approach that builds data workflows from a specification rather than embedding workflow logic directly in code. This architecture makes workflows more flexible, easier to extend, and significantly reduces maintenance costs.
 
-###  [Blog 3 - ...](3.3-Blog3/)

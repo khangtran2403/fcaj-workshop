@@ -12,4 +12,3 @@ Bài viết này giới thiệu cách một doanh nghiệp fintech giả định
 ###  [Blog 2 - Xây dựng quy trình xử lý dữ liệu linh hoạt với Specification-Driven Composition trên AWS](3.2-Blog2/)
 Blog này giới thiệu mô hình Specification-Driven Composition, một phương pháp cho phép xây dựng các quy trình xử lý dữ liệu dựa trên đặc tả (specification) thay vì viết logic cố định trong mã nguồn. Kiến trúc này giúp workflow trở nên linh hoạt, dễ mở rộng và giảm đáng kể chi phí bảo trì.
 
-###  [Blog 3 - ...](3.3-Blog3/)

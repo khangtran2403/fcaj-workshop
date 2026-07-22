@@ -8,8 +8,7 @@ pre : " <b> 5.3.1 </b> "
 
 1. Open the [Amazon S3 console](https://ap-southeast-1.console.aws.amazon.com/s3/home?region=ap-southeast-1#)
 2. On the main page, click **Create bucket** to create the first bucket:
-
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/create-bucket.png)
+![endpoint](images/create-bucket.png)
 
 3. In the **Create bucket** page:
 + Set the bucket name to **workshop-invoice-input** (Stores the original PDF files)
@@ -17,7 +16,7 @@ pre : " <b> 5.3.1 </b> "
 + Keep the default configuration
 + Click **Create bucket** 
 
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/invoice_input.png)
+![input](images/invoice_input.png)
 
 4. Create the second bucket: 
 + Return to the home page and choose **Create bucket**
@@ -25,13 +24,13 @@ pre : " <b> 5.3.1 </b> "
 + Block all public access
 + Keep the default configuration
 + Click **Create bucket**
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/invoice_output.png)
+![output](images/invoice_output.png)
 5. Create the third bucket: 
 + Return to the home page and choose **Create bucket**
 + Set the bucket name to **workshop-frontend-hosting** (Stores the web frontend source code)
 + Block all public access
 + Keep the default configuration
 + Click **Create bucket**
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/frontend_hosting.png)
+![hosting](images/frontend_hosting.png)
 
 

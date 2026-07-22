@@ -9,7 +9,7 @@ pre : " <b> 5.3.1 </b> "
 1. Mở [Amazon S3 console](https://ap-southeast-1.console.aws.amazon.com/s3/home?region=ap-southeast-1#)
 2. Trong trang chính, click **Create bucket** để tạo bucket đầu tiên:
 
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/create-bucket.png)
+![endpoint](images/create-bucket.png)
 
 3. Trong **Create bucket**:
 + Đặt tên cho bucket: **workshop-invoice-input** (Nhận file PDF gốc)
@@ -17,7 +17,7 @@ pre : " <b> 5.3.1 </b> "
 + Để cấu hình default
 + click **Create bucket** 
 
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/invoice_input.png)
+![input](images/invoice_input.png)
 
 4. Tạo bucket thứ hai: 
 + Quay về trang chủ,chọn **Create bucket**
@@ -25,13 +25,13 @@ pre : " <b> 5.3.1 </b> "
 + Block tất cả public access
 + Để cấu hình default
 + click **Create bucket**
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/invoice_output.png)
+![output](images/invoice_output.png)
 5. Tạo bucket thứ ba: 
 + Quay về trang chủ,chọn **Create bucket**
 + Đặt tên cho bucket: **workshop-frontend-hosting** (Chứa source code giao diện Web)
 + Block tất cả public access
 + Để cấu hình default
 + click **Create bucket**
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/frontend_hosting.png)
+![hosting](images/frontend_hosting.png)
 
 

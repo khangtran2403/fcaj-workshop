@@ -94,5 +94,5 @@ Instead of treating workflows as source code, treat them as data. By describing 
 
 [Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2211158986315728)
 
-![endpoint](/images/3-Blog/3.Blog2.1.png)
-![endpoint](/images/3-Blog/3.Blog2.2.png)
+![endpoint](images/3.Blog2.1.png)
+![endpoint](/images/3.Blog2.2.png)

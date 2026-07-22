@@ -1,7 +1,7 @@
 ---
 title : "Hoàn thiện Frontend & Bảo mật"
 date : 2026-07-17
-weight : 5
+weight : 7
 chapter : false
 pre : " <b> 5.7 </b> "
 ---

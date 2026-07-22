@@ -19,6 +19,7 @@ The challenge is clear: how do we extract structured information from unstructur
 
 The proposed architecture utilizes a serverless pipeline orchestrated by AWS Step Functions no servers to manage, no polling, and no cron jobs. Each uploaded invoice automatically triggers a complete, end-to-end processing workflow.
 
+![arch](images/architecture.png)
 
 
 AWS Services Used

@@ -19,4 +19,4 @@ Lớp Tương tác (Frontend & API): Bao gồm một ứng dụng React được
 
 Lớp Xử lý Sự kiện (Event-driven Core): Mô phỏng quy trình xử lý hóa đơn tự động. Khi một file PDF được tải lên S3 Input Bucket thông qua Presigned URL, nó sẽ tự động kích hoạt một luồng AWS Step Functions. Luồng này đóng vai trò như một nhạc trưởng, điều phối việc gọi Amazon Bedrock để trích xuất dữ liệu, sau đó sử dụng AWS Lambda để kiểm tra độ tin cậy (confidence score). Dữ liệu tốt sẽ được lưu thẳng vào DynamoDB, trong khi dữ liệu có độ tin cậy thấp sẽ được chuyển vào Amazon SQS để con người xem xét lại.
 
-![overview](/images/5-Workshop/5.1-Workshop-overview/diagram1.png)
+![overview](images/architecture.png)

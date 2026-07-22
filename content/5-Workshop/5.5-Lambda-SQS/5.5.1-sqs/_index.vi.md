@@ -1,7 +1,7 @@
 ---
 title : "Tạo hàng đợi SQS (Human Review)"
 date : 2026-07-15
-weight : 5
+weight : 1
 chapter : false
 pre : " <b> 5.5.1 </b> "
 ---
@@ -16,11 +16,11 @@ Truy cập [SQS console](https://ap-southeast-1.console.aws.amazon.com/sqs/v3/ho
 + Chọn Type : **Standard**
 + Dặt tên : **Invoice-Human-Review-Queue**
 + Phần config còn lại giữ nguyên
-![create](/images/5-Workshop/5.5-SQS-Lambda/create_queue.png)
-![config](/images/5-Workshop/5.5-SQS-Lambda/config.png)
+![create](images/create_queue.png)
+![config](images/config.png)
 
 3. Chọn **Create queue**
-![success](/images/5-Workshop/5.5-SQS-Lambda/succes.png)
+![success](images/succes.png)
 + Giao diện sau khi tạo queue thành công như ảnh
 
 

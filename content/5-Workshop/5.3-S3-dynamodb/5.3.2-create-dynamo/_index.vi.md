@@ -9,20 +9,20 @@ pre : " <b> 5.3.2 </b> "
 #### Tạo bảng Invoices
 
 1. Vào DynamoDB Console, tạo bảng để lưu dữ liệu đã chuẩn hóa
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/dynamo.png)
+![endpoint](images/dynamo.png)
 2. Trong console, chọn **Create table**
 
 3. Trong Create table console
 + Đặt tên table: Invoices 
 + Partition key : invoice_id (String)
-![Table name](/images/5-Workshop/5.3-S3-DynamoDB/create_table.png)
+![Table name](images/create_table.png)
 
 
 + Giữ nguyên giá trị của các fields khác (default)
 + Kéo chuột xuống và chọn **Create table**
 + Tạo thành công bảng Invoices
 
-![Success](/images/5-Workshop/5.3-S3-DynamoDB/create_completed.png)
+![Success](images/create_completed.png)
 
 
 #### Tóm tắt

@@ -9,21 +9,20 @@ pre : " <b> 5.3.2 </b> "
 #### Create the Invoices Table
 
 1. Open the Amazon DynamoDB Console and create a table to store the normalized data.
-![endpoint](/images/5-Workshop/5.3-S3-DynamoDB/dynamo.png)
+![endpoint](images/dynamo.png)
 2. In the console, choose **Create table**.
 
 3. In the **Create table** page
 + Set the table name to **Invoices** 
 + Partition key: **invoice_id** (String)
-![Table name](/images/5-Workshop/5.3-S3-DynamoDB/create_table.png)
+![Table name](images/create_table.png)
 
 
 + Keep the default values for all other fields.
 + Scroll down and choose **Create table**.
 + The **Invoices** table has been created successfully.
 
-![Success](/images/5-Workshop/5.3-S3-DynamoDB/create_completed.png)
-
+![Success](images/create_completed.png)
 
 #### Summary
 

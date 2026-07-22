@@ -8,22 +8,22 @@ pre : " <b> 5.4.1 </b> "
 
 #### Configure Amazon Cognito
 1. Open the [Amazon Cognito Console](https://ap-southeast-1.console.aws.amazon.com/cognito/v2/home?region=ap-southeast-1#)
-![endpoint](/images/5-Workshop/5.4-Auth-PresignedURL/cognito.png)
+![endpoint](images/cognito.png)
 
 2. On the main page, choose **Create User Pool**
 
-![userpool](/images/5-Workshop/5.4-Auth-PresignedURL/userpool.png)
+![userpool](images/userpool.png)
 + Create a User Pool and name it **MyApp**.
 + Configure sign-in using **Email/Password**.
-![Create](/images/5-Workshop/5.4-Auth-PresignedURL/userpool_name.png)
+![Create](images/userpool_name.png)
 + Choose **Create User Pool**
 3. Click the Cognito URL generated after the User Pool is created successfully to create an **App Client**.
 + Create a test user for signing in later.
 + Enter an email address and password.
 + Choose **Sign up**  
-![Sign up](/images/5-Workshop/5.4-Auth-PresignedURL/signup.png)
+![Sign up](images/signup.png)
 + After successful registration, a confirmation message will be displayed and a confirmation email will be sent. 
-![Sign up completed](/images/5-Workshop/5.4-Auth-PresignedURL/signup_complete.png)
+![Sign up completed](images/signup_complete.png)
 
 
 

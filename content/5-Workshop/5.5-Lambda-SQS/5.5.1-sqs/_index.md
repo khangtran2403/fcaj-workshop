@@ -1,7 +1,7 @@
 ---
 title : "Create an Amazon SQS Queue (Human Review)"
 date : 2026-07-15
-weight : 5
+weight : 1
 chapter : false
 pre : " <b> 5.5.1 </b> "
 ---
@@ -16,11 +16,11 @@ Open the [Amazon SQS console](https://ap-southeast-1.console.aws.amazon.com/sqs/
 + Type: **Standard**
 + Queue name: **Invoice-Human-Review-Queue**
 + Keep the remaining configuration settings as their default values.
-![create](/images/5-Workshop/5.5-SQS-Lambda/create_queue.png)
-![config](/images/5-Workshop/5.5-SQS-Lambda/config.png)
+![create](images/create_queue.png)
+![config](images/config.png)
 
 3. Choose **Create queue**.
-![success](/images/5-Workshop/5.5-SQS-Lambda/succes.png)
+![success](images/succes.png)
 + After the queue is created successfully, you will see a screen similar to the following image.
 
 

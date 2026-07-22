@@ -67,8 +67,8 @@ Bài viết gốc : https://aws.amazon.com/blogs/architecture/specification-driv
 
 [Link](https://www.facebook.com/groups/awsstudygroupfcj/permalink/2211158986315728)
 
-![endpoint](/images/3-Blog/3.Blog2.1.png)
-![endpoint](/images/3-Blog/3.Blog2.2.png)
+![endpoint](/images/3.Blog2.1.png)
+![endpoint](/images/3.Blog2.2.png)
 
 
 

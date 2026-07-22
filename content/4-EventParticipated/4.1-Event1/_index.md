@@ -80,9 +80,9 @@ Remember to Read the Docs
 - Learned how to build system reliably,securely,scalably
 
 #### Some event photos
-![endpoint](/images/4-EventsParticipated/event1.1.png)
-![endpoint](/images/4-EventsParticipated/event1.2.png)
-![endpoint](/images/4-EventsParticipated/event1.3.png)
+![endpoint](images/event1.1.jpg)
+![endpoint](images/event1.2.jpg)
+![endpoint](images/event1.3.jpg)
 
 
 
